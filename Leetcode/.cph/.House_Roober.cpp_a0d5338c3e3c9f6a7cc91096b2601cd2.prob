@@ -1,0 +1,1 @@
+{"name":"Local: House_Roober","url":"d:\\Dynamic Programming\\Leetcode\\House_Roober.cpp","tests":[{"id":1715439729200,"input":"4\n1 2 3 1","output":"4"},{"id":1715439752792,"input":"5\n2 7 9 3 1","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Dynamic Programming\\Leetcode\\House_Roober.cpp","group":"local","local":true}
