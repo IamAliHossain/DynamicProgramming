@@ -1,0 +1,5 @@
+To crate a new folder on github under a existing repo:
+1. press on create files
+2. Type a chosen name
+3  Then press forward slash from your keyboard
+4. Eventually create any type of file under the new created folder
