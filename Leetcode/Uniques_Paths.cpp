@@ -2,6 +2,8 @@
 // Author : Ali Hossain
 // Date : 16-05-2024
 
+#include<bits/stdc++.h>
+using namespace std;
 
 /* Only Recursion this will give TLE */
 int paths(int i, int j){
